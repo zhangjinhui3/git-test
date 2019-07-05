@@ -18,4 +18,9 @@ public class FirstClass {
         int o = i-2;
         System.out.println(o);
     }
+
+    public void  test2(){
+        String str = "张晋珲";
+        System.out.println(str);
+    }
 }
